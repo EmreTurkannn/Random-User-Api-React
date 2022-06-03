@@ -5,7 +5,7 @@ const Header=()=>{
 
     return(
         <header>
-            Emre Turkan
+            Emre Turkann
         </header>
 
     )
